@@ -22,7 +22,7 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=achira16&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
  
 🌱 *Profile Views*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![visitors](https://profile-counter.glitch.me/ritikumariupadhyay24/count.svg?align=center)
+![visitors](https://profile-counter.glitch.me/achira16/count.svg?align=center)
 <br>
 <br>
  ![Github stats](https://github-readme-stats.vercel.app/api?username=achira16)
