@@ -4,24 +4,22 @@
 
 🌱 *About myself*<br>
 
-✔️ I am *Riti Kumari, currently pursuing my bachelors from UCET VBU,Hazaribagh in *Computer and Science Engineering. <br>
+✔️ I am *Achira Raychaudhuri, currently pursuing my B.Tech from NIT Sikkim in *Computer and Science Engineering. <br>
 
-✔️ I am interested in  development and have contributed to some of the open-source organisations . I also enjoy doing competitive programming. <br>
+✔️ I am passionate about problem solving and development. <br>
 
-✔️ I have experience in FULL stack web development .<br>
-
-✔️ I have been the participant of  open-source event such as HacktoberFest'20.
+✔️ I am also interested in ML/AI and have done projects based on it. <br>
 
 <br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-RitiKumari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/riti2409/)](https://www.linkedin.com/in/riti2409/) 
-[![Gmail Badge](https://img.shields.io/badge/-ritikumariupadhyay24@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ritikumariupadhyay24@gmail.com)](mailto:ritikumariupadhyay24@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-RitiKumari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/achira-raychaudhuri)](www.linkedin.com/in/achira-raychaudhuri) 
+[![Gmail Badge](https://img.shields.io/badge/-achiraray14@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:achiraray14@gmail.com)](mailto:achiraray14@gmail.com)
 
 <hr>
 
  📶 Stats:<br><br>
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riti2409&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=achira16&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
  
 🌱 *Profile Views*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![visitors](https://profile-counter.glitch.me/ritikumariupadhyay24/count.svg?align=center)
@@ -31,7 +29,7 @@
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=riti2409&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)       
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=achira16&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)       
          
 
 ---
