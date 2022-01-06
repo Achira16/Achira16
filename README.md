@@ -4,7 +4,7 @@
 
 🌱 *About myself*<br>
 
-✔️ I am *Achira Raychaudhuri, currently pursuing my B.Tech from NIT Sikkim in *Computer and Science Engineering. <br>
+✔️ I am *Achira Raychaudhuri, currently pursuing my B.Tech from NIT Sikkim in* Computer and Science Engineering. <br>
 
 ✔️ I am passionate about problem solving and development. <br>
 
@@ -12,7 +12,7 @@
 
 <br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-RitiKumari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/achira-raychaudhuri)](www.linkedin.com/in/achira-raychaudhuri) 
+[![Linkedin Badge](https://img.shields.io/badge/-AchiraRaychaudhuri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/achira-raychaudhuri)](www.linkedin.com/in/achira-raychaudhuri) 
 [![Gmail Badge](https://img.shields.io/badge/-achiraray14@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:achiraray14@gmail.com)](mailto:achiraray14@gmail.com)
 
 <hr>
@@ -25,7 +25,7 @@
 ![visitors](https://profile-counter.glitch.me/ritikumariupadhyay24/count.svg?align=center)
 <br>
 <br>
- ![Github stats](https://github-readme-stats.vercel.app/api?username=riti2409)
+ ![Github stats](https://github-readme-stats.vercel.app/api?username=achira16)
 
 
 
@@ -35,7 +35,7 @@
 ---
  
 
-[![riti's github activity graph](https://activity-graph.herokuapp.com/graph?username=riti2409&theme=react-dark)](https://github.com/riti2409/github-readme-activity-graph)
+[![achira's github activity graph](https://activity-graph.herokuapp.com/graph?username=achira16&theme=react-dark)](https://github.com/riti2409/github-readme-activity-graph)
 
   
 
