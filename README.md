@@ -35,7 +35,7 @@
 ---
  
 
-[![achira's github activity graph](https://activity-graph.herokuapp.com/graph?username=achira16&theme=react-dark)](https://github.com/achira16/github-readme-activity-graph)
+[![achira's github activity graph](https://activity-graph.herokuapp.com/graph?username=achiraray14&theme=react-dark)](https://github.com/achira16/github-readme-activity-graph)
 
   
 
